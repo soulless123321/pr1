@@ -1,0 +1,41 @@
+﻿<Window x:Class="Практическая_7_2.InputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ввод данных" Height="400" Width="400"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Поля ввода -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,10,0,0">
+            <TextBlock Text="Number 1:" Width="70" VerticalAlignment="Center"/>
+            <TextBox x:Name="txtNum1" Width="200"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,15,0,0">
+            <TextBlock Text="Number 2:" Width="70" VerticalAlignment="Center"/>
+            <TextBox x:Name="txtNum2" Width="200"/>
+        </StackPanel>
+
+        <!-- Флажки (CheckBox) -->
+        <GroupBox Grid.Row="2" Header="Режим вычислений" Margin="0,20,0,10" Padding="10">
+            <StackPanel>
+                <CheckBox x:Name="chkComposition" Content="Composition (Произведение)" Margin="0,5"/>
+                <CheckBox x:Name="chkPower" Content="Power (Возведение в степень)" Margin="0,5"/>
+                <CheckBox x:Name="chkMaxDivisor" Content="Max divisor (НОД)" Margin="0,5"/>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Кнопка подтверждения -->
+        <Button Grid.Row="4" Content="ОК" Width="100" Height="35" 
+                HorizontalAlignment="Right" Margin="0,10,0,0" Click="btnOk_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Практическая_7_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Практическая 7.2 - Меню" Height="400" Width="600"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Главное меню -->
+        <Menu Grid.Row="0" Background="#E0E0E0">
+            <MenuItem Header="Меню">
+                <MenuItem x:Name="menuInput" Header="Input" Click="menuInput_Click"/>
+                <MenuItem x:Name="menuCalc" Header="Calc" IsEnabled="False" Click="menuCalc_Click"/>
+                <Separator/>
+                <MenuItem Header="Quit" Click="menuQuit_Click"/>
+                <MenuItem Header="About" Click="menuAbout_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <!-- Рабочая область (можно добавить любой текст для красоты) -->
+        <TextBlock Grid.Row="1" Text="Выберите команду в меню сверху." 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Foreground="Gray"/>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\bin\Debug\Практическая_7_2.exe.config
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\bin\Debug\Практическая_7_2.exe
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\bin\Debug\Практическая_7_2.pdb
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\Практическая_7_2.csproj.AssemblyReference.cache
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\InputWindow.baml
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\MainWindow.baml
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\InputWindow.g.cs
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\MainWindow.g.cs
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\App.g.cs
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\Практическая_7_2_MarkupCompile.cache
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\Практическая_7_2.g.resources
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\Практическая_7_2.Properties.Resources.resources
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\Практическая_7_2.csproj.GenerateResource.cache
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\Практическая_7_2.csproj.CoreCompileInputs.cache
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\Практическая_7_2.exe
+C:\Users\ilase\Desktop\popo\Практическая_7_2\Практическая_7_2\obj\Debug\Практическая_7_2.pdb
