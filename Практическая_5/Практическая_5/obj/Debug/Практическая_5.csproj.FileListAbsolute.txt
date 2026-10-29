@@ -1,0 +1,9 @@
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\bin\Debug\Практическая_5.exe.config
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\bin\Debug\Практическая_5.exe
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\bin\Debug\Практическая_5.pdb
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\obj\Debug\Практическая_5.csproj.AssemblyReference.cache
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\obj\Debug\Практическая_5.Properties.Resources.resources
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\obj\Debug\Практическая_5.csproj.GenerateResource.cache
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\obj\Debug\Практическая_5.csproj.CoreCompileInputs.cache
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\obj\Debug\Практическая_5.exe
+C:\Users\ilase\Desktop\popo\Практическая_5\Практическая_5\obj\Debug\Практическая_5.pdb
